@@ -1,4 +1,4 @@
-# Prompt-RPS
+# Prompt RPS
 Prompt RPS is game played in Command Prompt 
 It's only for Windows
 # Download
